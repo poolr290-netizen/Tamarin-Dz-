@@ -1,0 +1,7 @@
+{
+  "name": "Tamarin Dz",
+  "description": "The ultimate Algerian high school companion for solving exercises based on the official curriculum. Fast, accurate, and direct solutions for 1AS, 2AS, and 3AS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
